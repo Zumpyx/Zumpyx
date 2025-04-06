@@ -17,32 +17,32 @@
       environment.systemPackages =
         [
           # 必需品
-          pkgs.tig
+          pkgs.tig pkgs.neovim pkgs.tmux pkgs.ranger pkgs.kitty 
+          pkgs.yabai pkgs.skhd  # 平铺式窗口与快捷键
 
+          # 生锈了
+          pkgs.helix pkgs.zellij pkgs.yazi pkgs.alacritty pkgs.bat pkgs.starship pkgs.fd pkgs.lsd pkgs.sniffnet pkgs.atuin pkgs.czkawka pkgs.gitui pkgs.zola pkgs.asciinema
 
           # 配置相关包
           pkgs.mkalias
 
-          # 必须
-          pkgs.helix     pkgs.neovim
-          pkgs.zellij    pkgs.tmux
-          pkgs.yazi      pkgs.ranger
-          pkgs.alacritty pkgs.kitty
-
           # 常用应用
-          pkgs.obsidian
+          pkgs.obsidian 
+          
 
           # 网络安全
-          pkgs.nmap pkgs.seclists pkgs.feroxbuster pkgs.gobuster pkgs.rustscan 
-          ## ProjectDiscovery
-          pkgs.alterx pkgs.chaos pkgs.cloudlist pkgs.cvemap pkgs.dnsx pkgs.httpx pkgs.interactsh pkgs.katana pkgs.naabu pkgs.notify pkgs.nuclei pkgs.subfinder pkgs.uncover
+          pkgs.nmap pkgs.seclists pkgs.feroxbuster pkgs.gobuster pkgs.rustscan
+          pkgs.alterx pkgs.chaos pkgs.cloudlist pkgs.cvemap pkgs.dnsx pkgs.httpx pkgs.interactsh pkgs.katana pkgs.naabu pkgs.notify pkgs.nuclei pkgs.subfinder pkgs.uncover # ProjectDiscovery
 
+          # 暂不支持
+          # pkgs.obs-studio
         ];
 
       fonts.packages = with pkgs; [
         noto-fonts
         noto-fonts-cjk-sans
         noto-fonts-emoji
+        noto-fonts-color-emoji
         liberation_ttf
         fira-code
         fira-code-symbols
