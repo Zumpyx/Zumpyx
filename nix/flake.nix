@@ -16,26 +16,32 @@
       # $ nix-env -qaP | grep wget
       environment.systemPackages =
         [
+          # pkgs.alacritty pkgs.kitty
           # 必需品
-          pkgs.tig pkgs.neovim pkgs.tmux pkgs.ranger pkgs.kitty 
+          pkgs.tig pkgs.neovim pkgs.tmux pkgs.ranger pkgs.wget
           pkgs.yabai pkgs.skhd  # 平铺式窗口与快捷键
 
+          # 开发环境
+          pkgs.vscode pkgs.python313 pkgs.rustup pkgs.go pkgs.zig  pkgs.vscode-extensions.golang.go
+
           # 生锈了
-          pkgs.helix pkgs.zellij pkgs.yazi pkgs.alacritty pkgs.bat pkgs.starship pkgs.fd pkgs.lsd pkgs.sniffnet pkgs.atuin pkgs.czkawka pkgs.gitui pkgs.zola pkgs.asciinema
+          pkgs.nushell pkgs.helix pkgs.zellij pkgs.yazi  pkgs.bat pkgs.starship pkgs.fd pkgs.lsd pkgs.sniffnet pkgs.atuin pkgs.czkawka pkgs.gitui pkgs.zola pkgs.asciinema
 
           # 配置相关包
           pkgs.mkalias
 
           # 常用应用
-          pkgs.obsidian 
+          pkgs.keepassxc pkgs.google-chrome pkgs.firefox pkgs.obsidian pkgs.discord pkgs.telegram-desktop pkgs.element-web 
           
 
           # 网络安全
-          pkgs.nmap pkgs.seclists pkgs.feroxbuster pkgs.gobuster pkgs.rustscan
+          pkgs.openvpn pkgs.nmap pkgs.seclists pkgs.feroxbuster pkgs.gobuster pkgs.rustscan pkgs.ffuf pkgs.cewl pkgs.exiftool pkgs.ghauri
           pkgs.alterx pkgs.chaos pkgs.cloudlist pkgs.cvemap pkgs.dnsx pkgs.httpx pkgs.interactsh pkgs.katana pkgs.naabu pkgs.notify pkgs.nuclei pkgs.subfinder pkgs.uncover # ProjectDiscovery
 
+          # 
+
           # 暂不支持
-          # pkgs.obs-studio
+          # pkgs.qq pkgs.wechat pkgs.obs-studio pkgs.proxifier pkgs.flclash pkgs.termius pkgs.proxychains
         ];
 
       fonts.packages = with pkgs; [
@@ -50,6 +56,14 @@
         dina-font
         proggyfonts
       ] ++ (builtins.filter lib.attrsets.isDerivation (builtins.attrValues nerd-fonts));
+
+      # programs.starship = {
+      #   enable = true;                                # 自动注入 Shell 初始化脚本
+      #   # enableBashIntegration = true;                 # 明确指定 Bash（可选）
+      #   enableZshIntegration = true;                  # 或 Zsh
+      #   # enableFishIntegration = true;                 # 或 Fish
+      #   settings = { /* 自定义配置 */ };              # 生成 ~/.config/starship.toml
+      # };
 
       # Macos 索引
       system.activationScripts.applications.text = let
@@ -72,11 +86,35 @@
           done
         '';
 
+      # 系统设置
+      system.defaults = {
+        dock.autohide = true;
+        dock.persistent-apps = [
+          "${pkgs.alacritty}/Applications/Alacritty.app"
+          "${pkgs.google-chrome}/Applications/Google Chrome.app"
+          "${pkgs.firefox}/Applications/Firefox.app"
+          "${pkgs.obsidian}/Applications/Obsidian.app"
+          "/System/Applications/Mail.app"
+          "/System/Applications/Music.app"
+          "/System/Applications/FindMy.app"
+          "/System/Applications/Music.app"
+          "/System/Applications/TextEdit.app"
+          "/System/Applications/Passwords.app"
+          "/System/Applications/iPhone Mirroring.app"
+          "/System/Applications/System Settings.app"
+          "/System/Applications/Launchpad.app"
+
+        ];
+        finder.FXPreferredViewStyle = "clmv";
+        loginwindow.GuestEnabled = false;
+        NSGlobalDomain.AppleICUForce24HourTime = true;
+        NSGlobalDomain.AppleInterfaceStyle = "Dark";
+        NSGlobalDomain.KeyRepeat = 2;
+      };
 
 
       # Necessary for using flakes on this system.
       nix.settings.experimental-features = "nix-command flakes";
-
 
       # Enable alternative shell support in nix-darwin.
       # programs.fish.enable = true;
