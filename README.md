@@ -17,11 +17,8 @@
 
 </h1>
 
-### 📊 GitHub Stats
-
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumpyx&layout=compact&theme=radical" alt="Top languages" />
 </div>
 
 ---
