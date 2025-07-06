@@ -15,21 +15,14 @@
     <img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge)" />
   </p>
 
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+
 </h1>
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true" alt="Stats" />
+  
 </div>
 
----
-
-### 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zumpyx&theme=algolia&margin-w=15&no-frame=true" alt="Trophies" />
-</p>
-
----
 
 ### 🎯 2024 Goals
 
