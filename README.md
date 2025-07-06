@@ -17,7 +17,7 @@
 
 </h1>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true" alt="Stats" />
@@ -26,7 +26,7 @@
 
 ---
 
-## 🏆 Trophies
+### 🏆 Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=zumpyx&theme=algolia&margin-w=15&no-frame=true" alt="Trophies" />
@@ -34,7 +34,7 @@
 
 ---
 
-## 🎯 2024 Goals
+### 🎯 2024 Goals
 
 - ✨ Contribute to more open-source projects  
 - 🔐 Deepen knowledge in offensive & defensive security  
