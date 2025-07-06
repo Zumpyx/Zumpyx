@@ -1,96 +1,78 @@
-# 🛡️ 漏洞猎人 | 二进制诗人 | 极客玩家 👾
+<!-- 个人主页 README，记得把占位符替换成自己的信息 -->
 
-&zwnj;**Hi 👋 我是 Zumpyx 一个热爱底层攻防与创造的程序员**&zwnj;
+<!-- 顶部彩条 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=150&section=header&text=Hello%20World!&fontSize=40&fontAlign=50&fontColor=ffffff" />
 
-### 👨💻 关于我
-- 🔭 目前正在从事 <网络安全安全研究员>
-- 🌱 正在学习 Rust、
-- 👯 希望合作开发网络安全相关产品
-- 🤔 需要帮助可以联系我 zumpyx@qq.com
-- ⚡ 有趣的事实：
+<h1 align="center">Hi，我是 <strong>YOUR_NAME</strong> 👋</h1>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F8F8F8&center=true&vCenter=true&width=600&height=60&lines=Coder+%F0%9F%92%BB;Security+Enthusiast+%F0%9F%94%92;Math+Lover+%E2%99%A8;Gamer+%F0%9F%8E%A9;Divination+%F0%9F%94%AE" alt="Typing SVG" />
+</p>
 
----
-
-### 🔥 技术领域
-#### 编程语言
-
-
-- 💻 &zwnj;**编程语言**&zwnj;：![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
-- 🔐 &zwnj;**网络安全**&zwnj;：逆向工程 | 漏洞挖掘 | 红蓝对抗 | 恶意软件分析
-- 🛠️ &zwnj;**开发方向**&zwnj;：安全工具开发 | 协议逆向 | 漏洞PoC编写 | 恶意软件开发
-- 🎮 &zwnj;**兴趣延伸**&zwnj;：游戏外挂检测 | 反作弊系统 | 密码学实践
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=lightgrey" alt="profile views"/>
+  <img src="https://img.shields.io/badge/Code-Love-%23FF69B4?style=for-the-badge" alt="code love">
+  <img src="https://img.shields.io/badge/Follow%20Me-On%20GitHub-blue?style=for-the-badge" alt="follow me" />
+</p>
 
 ---
 
-### 🛡️ 攻防装备库
+## 🛠 技能栈 / Tech Stack
 
-#### 编程语言
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
-
-#### 安全工具
-
-![IDA Pro](https://img.shields.io/badge/IDA_Pro-272727?style=flat-square&logo=hex-rays&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A5?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=flat-square&logo=metasploit&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-00A8E1?style=flat-square&logo=ghidra&logoColor=white)
+| Category | Skills |
+|----------|--------|
+| Languages | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge) |
+| Paradigms | 🕸️ 系统/底层、🔐 安全、🔧 CLI、🕵️ 逆向、⚙️ 并发 |
+| Tools | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
+| Misc | 数学、游戏开发、占卜、写有趣的工具 |
 
 ---
 
-### 📚 知识沉淀
-- 🖋️ 技术博客：[![Blog](https://img.shields.io/badge/安全技术博客-FF7139?style=flat-square&logo=ghost&logoColor=white)](https://example.com)
-- 📹 B站频道：[![Bilibili](https://img.shields.io/badge/B站-00A1D6?style=flat-square&logo=bilibili&logoColor=white)](https://bilibili.com/yourid)
-- 🚩 CTF战队：曾参与[战队名称]并取得[XCTF/网鼎杯等]前10战绩
+## 📊 GitHub 统计
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+</div>
 
 ---
 
-### 🎯 实战项目
-1. &zwnj;**[Rust实现的漏洞扫描器](https://example.com)**&zwnj;  
-   `基于异步IO的高性能网络扫描框架`  
-   `支持CVE-2023-XXX等多个漏洞检测`
+## 🏆 奖杯 & 成就
 
-2. &zwnj;**[游戏反外挂驱动模块](https://example.com)**&zwnj;  
-   `使用Zig编写内核级检测模块`  
-   `实现内存篡改检测和API Hook检测`
-
-3. &zwnj;**[CTF自动化工具包](https://example.com)**&zwnj;  
-   `集成常见密码学/逆向/PWN解题脚本`  
-   `支持动态符号执行和模糊测试`
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&no-frame=true" />
+</p>
 
 ---
 
-### 🧠 近期关注
+## ⌛ 最近在做什么？
 
-- 1
-- 2
-- 3
+<!--START_SECTION:activity-->
+<!-- Automated GitHub activity will appear here; 使用 GitHub Actions (例如 github-activity-readme) 可自动更新 -->
+<!--END_SECTION:activity-->
 
+---
 
-### 🤝 合作邀请
+## 🎯 2024 目标
 
-📌 二进制漏洞利用开发
-📌 红队基础设施构建
-📌 安全工具链优化
-📌 游戏安全攻防实践
+- ✨ 参与更多开源项目
+- 🔐 研究更多安全攻防姿势
+- 📚 继续学习高级数学
+- 🕹️ 制作一个像素风小游戏
+- 🔮 把占卜做成 CLI 工具
 
-### 🎮 极客生活
+---
 
-🕹️ 当前游戏：Cyberpunk 2077 | Hollow Knight
-📐 数学挑战：Project Euler 进度 87/800  
-🎥 最新视频：《从0编写一个ROP链》播放量破10w
+## 🤝 联系我
 
-<img src="https://github-readme-stats.vercel.app/api?username=Zumpyx&show_icons=true&theme=radical&hide=issues">
+<p>
+  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/your_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <!-- 可以继续添加社媒链接 -->
+</p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gaishishenlun&count_private=true&show_icons=true&theme=radical)
+<!-- 底部彩蛇 -->
+<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gaishishenlun&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- 尾部彩条 -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=120&section=footer" />
