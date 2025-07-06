@@ -3,21 +3,20 @@
 <!-- Top banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=150&section=header&text=Hello%2C%20World!&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
 
-<h1 align="center">Hi, I'm <strong>Zumpyx</strong> 👋</h1>
+<h1 align="center">
+  Hi, I'm <strong>Zumpyx</strong> 👋
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+    <img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge)" />
+  </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F8F8F8&center=true&vCenter=true&width=650&height=50&lines=Programmer%20%F0%9F%92%BB;Security%20Enthusiast%20%F0%9F%94%92;Math%20Lover%20%E2%99%A8;Gamer%20%F0%9F%8E%AE;Divination%20Fan%20%F0%9F%94%AE" alt="Typing SVG" />
-</p>
+</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge)" />
-</p>
 
----
 
 ## 📊 GitHub Stats
 
