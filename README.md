@@ -3,14 +3,14 @@
 <!-- 顶部彩条 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=150&section=header&text=Hello%20World!&fontSize=40&fontAlign=50&fontColor=ffffff" />
 
-<h1 align="center">Hi，我是 <strong>YOUR_NAME</strong> 👋</h1>
+<h1 align="center">Hi，I'm <strong>Zumpyx</strong> 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F8F8F8&center=true&vCenter=true&width=600&height=60&lines=Coder+%F0%9F%92%BB;Security+Enthusiast+%F0%9F%94%92;Math+Lover+%E2%99%A8;Gamer+%F0%9F%8E%A9;Divination+%F0%9F%94%AE" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=lightgrey" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=zumpyx&style=for-the-badge&color=lightgrey" alt="profile views"/>
   <img src="https://img.shields.io/badge/Code-Love-%23FF69B4?style=for-the-badge" alt="code love">
   <img src="https://img.shields.io/badge/Follow%20Me-On%20GitHub-blue?style=for-the-badge" alt="follow me" />
 </p>
@@ -31,8 +31,8 @@
 ## 📊 GitHub 统计
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zumpyx&layout=compact&theme=radical" />
 </div>
 
 ---
@@ -40,7 +40,7 @@
 ## 🏆 奖杯 & 成就
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=algolia&margin-w=15&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zumpyx&theme=algolia&margin-w=15&no-frame=true" />
 </p>
 
 ---
@@ -62,17 +62,6 @@
 - 🔮 把占卜做成 CLI 工具
 
 ---
-
-## 🤝 联系我
-
-<p>
-  <a href="mailto:your_email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://t.me/your_tg"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <!-- 可以继续添加社媒链接 -->
-</p>
-
-<!-- 底部彩蛇 -->
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" />
 
 <!-- 尾部彩条 -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=120&section=footer" />
