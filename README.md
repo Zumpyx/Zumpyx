@@ -12,15 +12,12 @@
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-    <img src="[https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge)" />
+    <img src="https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=white" />
   </p>
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true" alt="Stats" />
 
   ![](https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true)
 
 </h1>
-
 
 ### 🎯 2024 Goals
 
