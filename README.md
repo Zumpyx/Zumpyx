@@ -17,11 +17,9 @@
 
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true" alt="Stats" />
 
-</h1>
+  ![](https://github-readme-stats.vercel.app/api?username=zumpyx&show_icons=true&theme=radical&count_private=true)
 
-<div align="center">
-  
-</div>
+</h1>
 
 
 ### 🎯 2024 Goals
