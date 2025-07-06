@@ -13,8 +13,14 @@
 ---
 
 ### 🔥 技术领域
+#### 编程语言
 
-- 💻 &zwnj;**编程语言**&zwnj;：`C` `Python` `Rust` `Golang` `Zig`
+
+- 💻 &zwnj;**编程语言**&zwnj;：![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
 - 🔐 &zwnj;**网络安全**&zwnj;：逆向工程 | 漏洞挖掘 | 红蓝对抗 | 恶意软件分析
 - 🛠️ &zwnj;**开发方向**&zwnj;：安全工具开发 | 协议逆向 | 漏洞PoC编写 | 恶意软件开发
 - 🎮 &zwnj;**兴趣延伸**&zwnj;：游戏外挂检测 | 反作弊系统 | 密码学实践
