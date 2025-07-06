@@ -1,6 +1,3 @@
-<!-- Profile README – customize placeholders before using -->
-
-<!-- Top banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a18cd1,100:fbc2eb&height=150&section=header&text=Hello%2C%20World!&fontSize=40&fontAlign=50&fontColor=FFFFFF" />
 
 <h1 align="center">
@@ -27,7 +24,4 @@
 - 🕹️ Build a pixel-style game  
 - 🔮 Turn divination into a CLI tool  
 
----
-
-<!-- Bottom banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fbc2eb,100:a18cd1&height=120&section=footer" />
