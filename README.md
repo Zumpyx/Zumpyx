@@ -9,17 +9,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F8F8F8&center=true&vCenter=true&width=650&height=50&lines=Programmer%20%F0%9F%92%BB;Security%20Enthusiast%20%F0%9F%94%92;Math%20Lover%20%E2%99%A8;Gamer%20%F0%9F%8E%AE;Divination%20Fan%20%F0%9F%94%AE" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zumpyx&style=for-the-badge&color=lightgrey" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Coding-%E2%9D%A4-FF69B4?style=for-the-badge" alt="Code love" />
-  <img src="https://img.shields.io/badge/Follow-me-GitHub-blue?style=for-the-badge" alt="Follow me" />
-</p>
-
 ---
 
 ## 🛠 Tech Stack
 
-| Category  |  Tools |
 |-----------|--------|
 | **Languages** | ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) ![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge) |
 | **Domains** | 🕸️ Systems / Low-level 🔐 Security 🔧 CLI 🕵️ Reverse engineering ⚙️ Concurrency |
